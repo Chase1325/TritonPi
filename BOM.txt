@@ -1,0 +1,24 @@
+ROBOT SPECIFIC:
+
+Electrical Components:
+  2x Raspberry Pi 4
+  1x 50m ethernet line
+  2x 5V to Motor V motor driver
+  1x 5V to sweep 
+  1x AC/DC Input V to 5V converter
+  1x Digital compass
+
+Mechanical Components:
+  1x Wateproof ethernet input Connector.... https://www.digikey.com/products/en?mpart=PX0834%2FB&v=708
+  1x Waterproof Bucaneer input adaptor
+  1x 3D Printer electronics housing
+
+
+GROUND STATION:
+1x Power cord
+1x Raspberry Pi 4
+1x Ground Station Housing
+1x (Possible wifi adaptor for stronger signal)
+
+EXTRA:
+1x camera
